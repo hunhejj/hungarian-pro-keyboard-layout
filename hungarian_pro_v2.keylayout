@@ -289,7 +289,7 @@
 			<key code="40" output="ł"/>
 			<key code="41" output="$"/>
 			<key code="42" output="¤"/>
-			<key code="43" output="&#x003E;"/>
+			<key code="43" output=";"/>
 			<key code="44" output="*"/>
 			<key code="45" output="}"/>
 			<key code="46" output="&#x003C;"/>
